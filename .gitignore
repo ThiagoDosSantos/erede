@@ -2,3 +2,5 @@ target
 .idea
 App.java
 erede.iml
+/.classpath
+/.project
